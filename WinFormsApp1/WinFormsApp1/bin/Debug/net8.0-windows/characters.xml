@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCharacter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>Персонаж (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>1</Level>
+    <Health>100</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Light</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+  <Character>
+    <Name>"!!ыыыыSSSSS/ d 111 (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone) (Clone)</Name>
+    <Level>100</Level>
+    <Health>88</Health>
+    <Mana>50</Mana>
+    <Abilities />
+    <Weapon>Sword</Weapon>
+    <Class>Warrior</Class>
+    <Armor>Plate</Armor>
+  </Character>
+</ArrayOfCharacter>
